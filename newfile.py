@@ -228,7 +228,7 @@ class Crack:
 						sys.stdout.flush()
 				opsi.clear()
 				break
-			sys.stdout.write("\r   \x1b[1;92m[\033[33m\x1b[1;92m]\x1b[38;5;208m ALT \x1b[38;5;226m %s/%s \x1b[38;5;46mOK\x1b[38;5;231m/\x1b[38;5;208mCP \x1b[38;5;46m%s\x1b[38;5;231m/\x1b[38;5;208m%s"%(len(loop),len(data_id),len(ok),len(cp)))
+			sys.stdout.write("\r   \x1b[1;92m[\033[33m\x1b[1;92m]\x1b[38;5;208m N4Y66M \x1b[38;5;226m %s/%s \x1b[38;5;46mOK\x1b[38;5;231m/\x1b[38;5;208mCP \x1b[38;5;46m%s\x1b[38;5;231m/\x1b[38;5;208m%s"%(len(loop),len(data_id),len(ok),len(cp)))
 			sys.stdout.flush()
 		loop.append("memek")
 
